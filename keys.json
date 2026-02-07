@@ -3,7 +3,7 @@
     {
       "kty": "oct",
       "alg": "HS256",
-      "k": "dG9wLXNlY3JldA",
+      "k": "dG9wLXNlY3JldA==",
       "kid": "attacker-key"
     }
   ]
